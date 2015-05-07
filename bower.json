@@ -1,0 +1,24 @@
+{
+  "name": "angular-playground",
+  "version": "0.1.0",
+  "authors": [
+    "Brian Jones <bjones6@tva.gov>"
+  ],
+  "description": "Angular Playground",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.14",
+    "angular-bootstrap": "~0.13.0",
+    "bootstrap": "~3.3.4"
+  }
+}
